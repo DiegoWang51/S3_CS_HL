@@ -1,2 +1,6 @@
 # S3_CS_HL
-Including notes and supplement files and resources
+#### This repository includes notes and supplement files and resources.
+
+Files and corresponding descriptions:
+
+* Bangbai EDS.pdf  [Lesson one - small brainstorm]
