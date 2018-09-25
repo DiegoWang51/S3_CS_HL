@@ -4,3 +4,4 @@
 Files and corresponding descriptions:
 
 * Bangbai EDS.pdf  [Lesson one - small brainstorm]
+* Case study lesson 2 
