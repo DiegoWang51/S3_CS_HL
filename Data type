@@ -1,0 +1,8 @@
+int 4 bytes
+Char 1 bytes
+long 8 bytes
+float 4 bytes
+double 8 bytes
+boolean 1 byte
+
+Objects data type automatically change the storage space to fit the size of the data
