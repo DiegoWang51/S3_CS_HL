@@ -1,3 +1,6 @@
+# Lesson 3
+
+## Data type
 int 4 bytes
 Char 1 bytes
 long 8 bytes
@@ -6,3 +9,19 @@ double 8 bytes
 boolean 1 byte
 
 Objects data type automatically change the storage space to fit the size of the data
+
+
+## OOP
+* association: a hard line
+* dependence: dotted line with a simpole arrow
+* inheritance/generalization : solid line with hollow arrow
+* implementation/realization : dotted line with hollow arrow
+
+- minimize dependencies
+* more dependency -> more complexity
+* more complexity -> more posible problems & more difficulty to maintain
+
+### Reduce dependency
+* Encapsulation (Information hiding)
+* Modularity : Dividing each level of disign into sepratable parts 
+  * A kind of abstraction 
