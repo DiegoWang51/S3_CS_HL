@@ -3,5 +3,5 @@
 
 Files and corresponding descriptions:
 
-* Bangbai EDS.pdf  [Lesson one - small brainstorm]
-* Case study lesson 2 Billvace/S3_CS_HL#
+* Bangbai EDS.pdf  [Lesson one - small brainstorm](https://github.com/Billvace/S3_CS_HL/edit/master/README.md)
+* Case study lesson 2 
