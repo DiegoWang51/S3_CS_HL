@@ -41,4 +41,7 @@ To ensure this commitment, the Air Force has been flying 31 operational GPS sate
 
 QUESTIONS:
 LIST some obstacles and cause of inaccuracy in GPS systems
+
 How can GPS satalites work to ensure accurate information in every part around the globe?
+
+What can we change in the GPS system？
