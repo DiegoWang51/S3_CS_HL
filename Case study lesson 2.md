@@ -39,3 +39,6 @@ The GPS space segment consists of a constellation of satellites transmitting rad
 The United States is committed to maintaining the availability of at least 24 operational GPS satellites, 95% of the time.
 To ensure this commitment, the Air Force has been flying 31 operational GPS satellites for the past few years.
 
+QUESTIONS:
+LIST some obstacles and cause of inaccuracy in GPS systems
+How can GPS satalites work to ensure accurate information in every part around the globe?
